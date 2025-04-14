@@ -47,7 +47,7 @@ The project runs on Python 3.9.21. The dependencies can be found in the `require
    - TensorFlow/Keras
    - NumPy
    - Matplotlib
-   - h5py (for `.mat` file handling)
+   - Scikit-learn
 
 ---
 
